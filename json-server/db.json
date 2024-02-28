@@ -1,0 +1,45 @@
+{
+  "songs": [
+    {
+      "id": "950294e6-4891-44e9-986b-71cd4459d899",
+      "song": "Tim McGraw",
+      "album": "Taylor Swift"
+    },
+    {
+      "id": "e1967ff7-a58d-4955-831e-fd7ba59c31e4",
+      "song": "Teardrops On My Guitar",
+      "album": "Taylor Swift"
+    },
+    {
+      "id": "d835bbfc-9dfc-4067-bfe5-700fd280b25a",
+      "song": "Shake it Off",
+      "album": "1989"
+    },
+    {
+      "id": "8b10f810-f9cf-4794-b2c9-504442225cd3",
+      "song": "hello",
+      "album": "hello",
+      "cname": "Mr. badshaah",
+      "mobile": "+916587412",
+      "area": "Shalibanda",
+      "ctype": "NEW or Regular or Occasional",
+      "datepurchase": "3/13/2024",
+      "dremainder": "10 days or 30 days",
+      "medicinespurchased": "Vymada 100 mg",
+      "grandtotal": "INR. 851"
+    },
+    {
+      "id": "fb05f06d-48c0-400f-991d-949c62f06873",
+      "song": "dummy",
+      "album": "bummy",
+      "cname": "Mr. 10badshah ",
+      "mobile": "+91766666666",
+      "area": "Shalibanda",
+      "ctype": " Occasional",
+      "datepurchase": "3/13/2024",
+      "dremainder": "10 days or 30 days",
+      "medicinespurchased": "Vymada 100 mg",
+      "grandtotal": "INR. 999"
+    }
+  ]
+}
